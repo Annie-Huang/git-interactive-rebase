@@ -1,6 +1,11 @@
 Advanced Git Tutorial - Interactive Rebase, Cherry-Picking, Reflog, Submodules and more
 (https://www.youtube.com/watch?v=qsTthZi23VE)
 
+13 Advanced (but useful) Git Techniques and Shortcuts
+(https://www.youtube.com/watch?v=ecK3EnyGD8o)
+
+Git MERGE vs REBASE: The Definitive Guide
+(https://www.youtube.com/watch?v=zOnwgxiC0OA)
 --------------------------------------------------------
 
 
