@@ -6,6 +6,9 @@ Advanced Git Tutorial - Interactive Rebase, Cherry-Picking, Reflog, Submodules a
 
 Git MERGE vs REBASE: The Definitive Guide
 (https://www.youtube.com/watch?v=zOnwgxiC0OA)
+
+Resolve Git MERGE CONFLICTS: The Definitive Guide
+(https://www.youtube.com/watch?v=Sqsz1-o7nXk)
 --------------------------------------------------------
 
 
