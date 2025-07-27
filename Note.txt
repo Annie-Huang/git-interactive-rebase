@@ -12,6 +12,9 @@ Resolve Git MERGE CONFLICTS: The Definitive Guide
 
 Git & GitHub Crash Course 2025
 (https://www.youtube.com/watch?v=vA5TTz6BXhY)
+
+Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git
+(https://www.youtube.com/watch?v=Uszj_k0DGsg)
 --------------------------------------------------------
 
 
