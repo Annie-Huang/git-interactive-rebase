@@ -9,6 +9,9 @@ Git MERGE vs REBASE: The Definitive Guide
 
 Resolve Git MERGE CONFLICTS: The Definitive Guide
 (https://www.youtube.com/watch?v=Sqsz1-o7nXk)
+
+Git & GitHub Crash Course 2025
+(https://www.youtube.com/watch?v=vA5TTz6BXhY)
 --------------------------------------------------------
 
 
