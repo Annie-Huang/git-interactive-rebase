@@ -18,6 +18,9 @@ Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control 
 
 Git & GitHub Tutorial | Visualized Git Course for Beginner & Professional Developers in 2024
 (https://www.youtube.com/watch?v=S7XpTAnSDL4)
+
+Advanced Git Tutorial
+(https://www.youtube.com/watch?v=0SJCYPsef54)
 --------------------------------------------------------
 
 
