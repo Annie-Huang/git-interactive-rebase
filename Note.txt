@@ -21,6 +21,9 @@ Git & GitHub Tutorial | Visualized Git Course for Beginner & Professional Develo
 
 Advanced Git Tutorial
 (https://www.youtube.com/watch?v=0SJCYPsef54)
+
+How to be a git expert
+(https://www.youtube.com/watch?v=hZS96dwKvt0)
 --------------------------------------------------------
 
 
